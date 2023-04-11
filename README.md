@@ -1,2 +1,2 @@
-# lavita111.github.io
-Zixiao Liu's Resume
+# zixiaoliu.com
+A Brief Introduction of Zixiao Liu
